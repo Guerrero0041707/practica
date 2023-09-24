@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-# My first app
-Hello *world!*
+Ya le ando entendiendo mike
 """)
 
 df = pd.read_csv("my_data.csv")
